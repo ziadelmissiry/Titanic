@@ -1,9 +1,9 @@
-Introduction 
+# Introduction 
 The Titanic is one of the most iconic disasters in history and its story captivates audiences to this day. With advances in data analysis, it is now possible to analyze data from this tragedy to gain valuable insights with the help of Python. This essay will analyze the Titanic dataset with Python to provide a better understanding of the voyage and the lives lost. Through these data analysis techniques and Python, we can gain a deeper understanding of the circumstances behind the tragedy and the people involved.
 
 Data analysis is the process of analyzing data to extract useful information and insights, and Python offers a range of solutions for this task. Python provides libraries, such as NumPy, pandas, and scikit-learn, that contain various functions for handling and analyzing data. Furthermore, it is easy to use the powerful plotting libraries, such as Matplotlib and Seaborn, to generate visualizations to better understand the data. In addition, powerful Machine Learning algorithms, such as support vector machines, random forests, and unsupervised learning algorithms, can be used to gain insights from structured data. By combining all of these capabilities, Python is a powerful tool for data analysis (Henderson et al.). 
 
-General Data
+# General Data
  Using pandas in python will allow for greater accuracy when predicting an outcome. The library pandas offers multiple model tools including appropriate frameworks for creating models based on large data sets such as those from the Titanic. Whenever I'm introduced with a dataset I like to understand the dataset and have a little bit of background knowledge on it. This dataset has a count of 891 meaning that there are 891 objects in the list and there are 177 nulls in age and 687 in Cabins and 2 in embarked as seen in figure 1, later on we will be removing the nulls to conduct more tests on the data.  Figure 2 in the appendix shows further background knowledge on the data we are examining such as max minimum and the count of passengers embarking from certain areas. 
 
 General Data: How to break it down
