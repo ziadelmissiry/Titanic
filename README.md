@@ -89,3 +89,39 @@ passenger over 18: 575
 # Figure 3
 ![unnamed](https://github.com/user-attachments/assets/4c1f1fee-37cb-4ce1-8409-24930e9ce628)
 
+# Figure 4 
+
+![unnamed (2)](https://github.com/user-attachments/assets/4d764789-ac56-40fd-97c6-548d87c79b68)
+
+![unnamed (1)](https://github.com/user-attachments/assets/07fbab05-a8ad-4315-8814-3d997ad29928)
+
+# Figure 5
+
+![unnamed (1)](https://github.com/user-attachments/assets/4023a6b9-736e-4fbd-bd6d-8749df0932d4)
+
+![unnamed](https://github.com/user-attachments/assets/95d1dd38-733c-4c41-bf68-b30da199800a)
+
+# Figure 6
+
+![unnamed](https://github.com/user-attachments/assets/78ea90af-182b-43be-a971-dd4a99c0b8e9)
+
+# Figure 7 
+
+![unnamed (1)](https://github.com/user-attachments/assets/627fec81-c8c9-4cb8-824f-aaa7aa47c0b8)
+
+# Figure 8
+
+![unnamed (2)](https://github.com/user-attachments/assets/b044b1aa-7c59-45ac-b812-e84238062cb0)
+
+![unnamed (1)](https://github.com/user-attachments/assets/0316c1e6-74bb-4ba8-82d3-af159aa0fb42)
+
+![unnamed](https://github.com/user-attachments/assets/396fe257-ab58-4e9f-9892-2313e7a33b70)
+
+
+
+
+
+
+
+
+
