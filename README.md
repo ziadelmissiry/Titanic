@@ -87,3 +87,5 @@ passenger under 18: 139
 passenger over 18: 575
 
 # Figure 3
+![unnamed](https://github.com/user-attachments/assets/4c1f1fee-37cb-4ce1-8409-24930e9ce628)
+
