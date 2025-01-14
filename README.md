@@ -6,10 +6,10 @@ Data analysis is the process of analyzing data to extract useful information and
 # General Data
  Using pandas in python will allow for greater accuracy when predicting an outcome. The library pandas offers multiple model tools including appropriate frameworks for creating models based on large data sets such as those from the Titanic. Whenever I'm introduced with a dataset I like to understand the dataset and have a little bit of background knowledge on it. This dataset has a count of 891 meaning that there are 891 objects in the list and there are 177 nulls in age and 687 in Cabins and 2 in embarked as seen in figure 1, later on we will be removing the nulls to conduct more tests on the data.  Figure 2 in the appendix shows further background knowledge on the data we are examining such as max minimum and the count of passengers embarking from certain areas. 
 
-General Data: How to break it down
+# General Data: How to break it down
 	 Examining records from Titanic’s voyage may be a helpful first step; preparing these records can include looking at each individual passenger’s age, sex, class ticket type etc. When examining these categories in order to better understand how they may have played a role in determining survivor status on board, it is evident that certain features such as ‘Age’ and ‘Class’ Ticket Type' had more influence than others like ‘PassengerId', 'Ticket' and 'Name'.
 
-Male VS Female 
+# Male VS Female 
 	One notable pattern that quickly becomes evident through a descriptive analysis of titanic passenger data is that more women survived than men during this debacle; 81 out of 891 female passengers survived compared to 109 out of 577 male passengers. Although these figures seem straightforward at first glance, further investigation reveals that there was a nuanced element at play here as well. Figure 3 shows two histograms depicting age distribution for both female and male survivors wherein it can be seen that although women had better chance of surviving when they were between 14 and 40 years old, men had better likelihoods for survival when they were between 18-30 years old. This suggests that other factors besides gender likely played some role in determining who was able to successfully evacuate off board before tragedy struck. In order to gain deeper insight into all these various facets associated with Titanic's fateful journey an evaluation across categories such as passenger class, port origin/destination etc must also take place. 
 
 Passenger Class
